@@ -1,5 +1,5 @@
 {
-  "name": "contentdb-dynamodb-driver",
+  "name": "@sglearn/contentdb-dynamodb-driver",
   "version": "1.0.0",
   "description": "dynamodb driver for contentdb",
   "main": "api.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duongtdn/contentdb-dynamodb-driver.git"
+    "url": "git+https://github.com/sglearn/contentdb-dynamodb-driver.git"
   },
   "author": "duongtdn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duongtdn/contentdb-dynamodb-driver/issues"
+    "url": "https://github.com/sglearn/contentdb-dynamodb-driver/issues"
   },
-  "homepage": "https://github.com/duongtdn/contentdb-dynamodb-driver#readme",
+  "homepage": "https://github.com/sglearn/contentdb-dynamodb-driver#readme",
   "dependencies": {
     "aws-sdk": "^2.247.1"
   }

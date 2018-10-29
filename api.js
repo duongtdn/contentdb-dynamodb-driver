@@ -4,8 +4,6 @@ const AWS = require('aws-sdk')
 
 let dynamodb = null
 
-const contentDB = {}
-
 const table = 'CONTENT';
 
 const Content = {
