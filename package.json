@@ -1,6 +1,6 @@
 {
   "name": "@sglearn/contentdb-dynamodb-driver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dynamodb driver for contentdb",
   "main": "api.js",
   "scripts": {
